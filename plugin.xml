@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>SoMusic-API</name>
+	<key>somusicapi</key>
+	<description>API for SoMusic mobile application</description>
+	<author>Simone Finelli</author>
+	<authorEmail>simoxfinelli@gmail.com</authorEmail>
+	<authorUrl>http://www.skalfa.com</authorUrl>
+	<developerKey>c4a99b4de73e465e3d2cdc7fc7268e0d</developerKey>
+	<build>1</build>
+	<copyright>(C) 2009 Skalfa LLC. All rights reserved.</copyright>
+	<license>The BSD License</license>
+	<licenseUrl>http://www.opensource.org/licenses/bsd-license.php</licenseUrl>
+</plugin>
